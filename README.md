@@ -1,0 +1,1 @@
+My java formatter is getting mixed up with my HTML LSP and Java LSP. Its probably not hard to fix but I can't be bothered for probably the rest of the semester. This is why my java formatting style might look weird.
